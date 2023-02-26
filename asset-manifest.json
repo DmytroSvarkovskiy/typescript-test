@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-test/static/css/main.e6c13ad2.css",
+    "main.js": "/typescript-test/static/js/main.14a469f8.js",
+    "index.html": "/typescript-test/index.html",
+    "main.e6c13ad2.css.map": "/typescript-test/static/css/main.e6c13ad2.css.map",
+    "main.14a469f8.js.map": "/typescript-test/static/js/main.14a469f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14a469f8.js"
+  ]
+}
