@@ -1,7 +1,5 @@
-import './App.css';
-
 const App: React.FC = () => {
-  return <div></div>;
+  return <div>Testing</div>;
 };
 
 export default App;
